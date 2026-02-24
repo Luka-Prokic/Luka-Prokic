@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Product-focused developer.<br>UI/UX driven.<br>TypeScript + React ecosystem.<br>Obsessed with clarity, structure, and feel.
 
 
