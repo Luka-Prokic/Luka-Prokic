@@ -1,5 +1,3 @@
-Product-focused developer.<br>UI/UX driven.<br>TypeScript + React ecosystem.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/luka-prokic-114aa3370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luka22prokic@gmail.com) 
 
